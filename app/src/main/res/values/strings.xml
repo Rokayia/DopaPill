@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">DopaPills</string>
+    <string name="connexion">Connexion</string>
+    <string name="seconnecter">Se connecter</string>
+    <string name="mdpoublie">Mot de passe oublié ?</string>
+    <string name="votremdp">Votre mot de passe</string>
+    <string name="votremail">Votre adresse e-mail</string>
+    <string name="annuler">Annuler</string>
+    <string name="sinscrire">Inscrivez-vous</string>
+    <string name="boutonsinscrire">Valider mon inscription</string>
+    <string name="et_pseudo">Votre pseudo</string>
+    <string name="et_email">Votre adresse e-mail</string>
+    <string name="mdp">Votre mot de passe</string>
+    <string name="mdpconfirmer">Confirmez votre mot de passe</string>
+    <string name="creercompte">Créer un compte</string>
+    <string name="vosid">Vos identifiants</string>
+    <string name="suivant">Suivant</string>
+    <string name="bienvenue">Bienvenue</string>
+    <string name="votrenom">Votre nom</string>
+    <string name="votreprenom">Votre prénom</string>
+    <string name="vousetes">Vous êtes</string>
+    <string name="profilvalide">Profil validé!</string>
+    <string name="installerunemontre">Installer une montre</string>
+    <string name="ignoreretape">Ignorer cette étape</string>
+    <string name="montre">Image de la montre</string>
+    <string name="activerbluetooth">Veuillez activer votre Bluetooth</string>
+    <string name="montreajoutee">Montre ajoutée avec succès!</string>
+    <string name="registration_success">Enregistrement réussi</string>
+    <string name="registration_failed">Echec enregistrement</string>
+    <string name="un_homme">Un homme</string>
+    <string name="une_femme">Une femme</string>
+    <string name="votre_age">Votre âge</string>
+    <string name="votre_poids">Votre poids (en kg)</string>
+    <string name="votre_taille">Votre taille (en cm)</string>
+
+</resources>
